@@ -1,4 +1,4 @@
-# gregory
+# grigora
 Screenshots of the home screen,detail screen, more info screen and drawer below
 ![](screenshots/screenshot1.png)
 ![](screenshots/screenshot2.png)
